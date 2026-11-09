@@ -7,3 +7,4 @@ int c=a+b;
 
 what is result?
 
+java is a programming language
