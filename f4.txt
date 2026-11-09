@@ -3,8 +3,7 @@ int a=10;
 what next?
 int b=20;
 int c=a+b;
-
-
 what is result?
+the result is 30;
 
 java is a programming language
